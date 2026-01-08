@@ -16,3 +16,8 @@
 ## 5 加載彈簧以及重量等條件
 
 ## 6 利用欲保護區域大小來計算所需張開的單元數
+
+
+參考範例:ron resch的Triangle Tessellation
+
+<img src="https://cfcorigami.com/sites/default/files/styles/gallery_thumb/public/2022-03/RR%20-%20Triangles%20Pattern.jpeg" alt="Folding plate visualization" width="600">
